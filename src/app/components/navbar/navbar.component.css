@@ -1,0 +1,10 @@
+.navbar {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #e3e7ea;
+    border-radius: 0;
+    margin-bottom: 0;
+    min-height: 50px;
+    padding: 0;
+    position: relative;
+    z-index: 1000;
+}
