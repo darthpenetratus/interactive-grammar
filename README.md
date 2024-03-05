@@ -6,5 +6,5 @@ Welcome to the GitHub repository for InteractiveGrammar, your go-to interactive 
 InteractiveGrammar is a web-based platform designed to complement "English Grammar in Use." It transforms static learning into an interactive experience, making grammar accessible and fun. Through a series of quizzes, interactive exercises, and games, users can practice and apply grammatical concepts directly tied to the textbook's lessons.
 
 ## Features
-**Interactive Exercises:** Practice grammar through engaging exercises that provide instant feedback.
-**Progress Tracking:** Monitor your learning journey with detailed insights into your strengths and areas for improvement.
+- **Interactive Exercises:** Practice grammar through engaging exercises that provide instant feedback.
+- **Progress Tracking:** Monitor your learning journey with detailed insights into your strengths and areas for improvement.
